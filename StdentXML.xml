@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="studxml.css" ?>
+<!--<!DOCTYPE HTML>
+<html>
+<head>
+<h1> STUDENTS </h1>
+</head>-->
+<students>
+<student>
+<USN>USN : 4VV16CS129</USN>
+<name>NAME : NITHIN</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : Computer Science and Engineering</branch>
+<year>YEAR : 2019</year>
+<e-mail>E-Mail : nit@gmail.com</e-mail>
+</student>
+<student>
+<USN>USN : 4VV16CS122</USN>
+<name>NAME : nitenajn</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : COMPUTER Science and Engineering</branch>
+<year>YEAR : 2019</year>
+<e-mail>E-Mail : niranu@gmail.com</e-mail>
+</student>
+<student>
+<USN>USN : 4VV16CS159</USN>
+<name>NAME :  sagara</name>
+<college>COLLEGE : VVCE</college>
+<branch>BRANCH : COMPUTER SCIENCE AND Engineering
+</branch>
+<year>YEAR : 2019</year>
+<e-mail>E-Mail : sgarabas@gmail.com</e-mail>
+</student>
+</students>
+<!--</html>-->
